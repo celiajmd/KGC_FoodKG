@@ -16,4 +16,4 @@ Food Knowledge Graph:
 https://celiajmd.github.io/
 
 Manual: 
-https://docs.google.com/document/d/1XiHNXjFERuahASx1goNNzPMVPHXnpsbYRmp-13wHlXs/edit?usp=sharing
+https://docs.google.com/document/d/1KenO6ROWdKCYCCuA9z-GGpjVI_pFUD3O06usrBvaBrc/edit?usp=sharing
