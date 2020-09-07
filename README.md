@@ -8,7 +8,12 @@ How: Here are steps of collecting, cleaning, manipulating data,  reconciling wit
 
 Github for all source files and codes: 
 https://github.com/celiajmd/KGC_FoodKG
+
 Github for website deploy:
 https://github.com/celiajmd/celiajmd.github.io
-Food Knowledge Graph:  link. 
-Manual: link
+
+Food Knowledge Graph: 
+https://celiajmd.github.io/
+
+Manual: 
+https://docs.google.com/document/d/1XiHNXjFERuahASx1goNNzPMVPHXnpsbYRmp-13wHlXs/edit?usp=sharing
