@@ -1,0 +1,37 @@
+---
+title: "Chicken Cordon Bleu I"
+description: "This is a recipe"
+type: "featured"
+image: https://images.media-allrecipes.com/userphotos/560x315/4222341.jpg
+categories: 
+  - "Recipe"
+tags: 
+  - "Recipe"
+---
+
+
+>**If you don't know what are inside this recipe, now you know!**
+
+![](../images/Recipes-Banner.jpg)
+> **Prepare Time:** 10 m
+
+
+> **Cook Time:** 35 m
+
+
+> **Total Time:** 45 m
+
+> **Look the ingredients of this recipe**
+
+> chicken
+
+> salt
+
+> black pepper
+
+> swiss cheese
+
+> ham
+
+> bread
+
